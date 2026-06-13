@@ -19,3 +19,4 @@ Bản V4 đã sửa theo yêu cầu:
 ## Ghi chú
 
 Không nên mở trực tiếp file `index.html` bằng `file://` vì trình duyệt có thể chặn hoặc xử lý sai nhạc/video. Hãy chạy bằng `run.bat` hoặc upload lên hosting/GitHub Pages.
+"# bavino1" 
